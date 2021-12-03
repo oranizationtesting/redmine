@@ -15,7 +15,6 @@ gem "mail", "~> 2.7.1"
 gem 'csv', '~> 3.2.0'
 gem "rbpdf", "~> 1.20.0"
 gem 'addressable'
-gem 'rubyzip', '~> 2.3.0'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :x64_mingw, :mswin]
