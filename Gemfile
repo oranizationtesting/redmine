@@ -10,7 +10,6 @@ gem 'request_store', '~> 1.5.0'
 gem 'mini_mime', '~> 1.1.0'
 gem "actionpack-xml_parser"
 gem 'roadie-rails', '~> 2.2.0'
-gem 'marcel'
 gem "mail", "~> 2.7.1"
 gem "rubyzip"
 
