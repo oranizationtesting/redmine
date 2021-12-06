@@ -14,6 +14,7 @@ gem "mail", "~> 2.7.1"
 gem "rubyzip"
 gem "marcel"
 gem "stripe"
+gem "tilt"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :x64_mingw, :mswin]
