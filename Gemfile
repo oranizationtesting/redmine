@@ -12,7 +12,6 @@ gem "actionpack-xml_parser"
 gem 'roadie-rails', '~> 2.2.0'
 gem 'marcel'
 gem "mail", "~> 2.7.1"
-gem "rubyzip"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :x64_mingw, :mswin]
