@@ -11,9 +11,6 @@ gem 'mini_mime', '~> 1.1.0'
 gem "actionpack-xml_parser"
 gem 'roadie-rails', '~> 2.2.0'
 gem "mail", "~> 2.7.1"
-gem "rubyzip"
-gem "marcel"
-gem "stripe"
 gem "rubocop"
 gem "devise"
 gem "uglifier"
