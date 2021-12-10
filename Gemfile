@@ -13,7 +13,7 @@ gem 'roadie-rails', '~> 2.2.0'
 gem "mail", "~> 2.7.1"
 
 gem "breakman"
-gem "redis"
+gem "redis", "~> 3.0.0"
 gem "devise"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
